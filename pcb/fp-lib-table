@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Mini_Talkie") (type "KiCad") (uri "${KIPRJMOD}/Mini_Talkie.pretty") (options "") (descr ""))
+)
