@@ -6323,6 +6323,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 161.29) (xy 118.11 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cd8df61-964b-4f26-9b82-b7d206bb1e70")
+	)
+	(wire
+		(pts
 			(xy 250.19 151.13) (xy 250.19 153.67)
 		)
 		(stroke
@@ -6340,6 +6350,16 @@
 			(type default)
 		)
 		(uuid "11cb7189-4b4c-44cc-bfda-0c4eea3dc4b2")
+	)
+	(wire
+		(pts
+			(xy 168.91 133.35) (xy 176.53 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11f7f1f0-4ffc-470b-9747-ed4576b44219")
 	)
 	(wire
 		(pts
@@ -6410,6 +6430,16 @@
 			(type default)
 		)
 		(uuid "1c4c5efe-1beb-4499-bad6-f18fa35865a3")
+	)
+	(wire
+		(pts
+			(xy 25.4 106.68) (xy 34.29 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2072b645-2247-425f-ad72-3ef61e6fab2e")
 	)
 	(wire
 		(pts
@@ -6490,6 +6520,16 @@
 			(type default)
 		)
 		(uuid "27efe062-60d6-4915-8172-dc0fe5d96bf4")
+	)
+	(wire
+		(pts
+			(xy 44.45 121.92) (xy 54.61 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2849a158-1f5b-4240-85f3-f9a7c3ce0e59")
 	)
 	(wire
 		(pts
@@ -6583,6 +6623,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 156.21) (xy 118.11 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32d4a447-e899-458f-85b3-2be0599767f0")
+	)
+	(wire
+		(pts
 			(xy 105.41 168.91) (xy 105.41 171.45)
 		)
 		(stroke
@@ -6673,6 +6723,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 125.73) (xy 176.53 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cf664a5-3978-4fdc-b043-900e07da1d11")
+	)
+	(wire
+		(pts
 			(xy 143.51 92.71) (xy 143.51 95.25)
 		)
 		(stroke
@@ -6740,6 +6800,16 @@
 			(type default)
 		)
 		(uuid "4af24599-9489-4308-bc56-6d6cffd8a1e1")
+	)
+	(wire
+		(pts
+			(xy 44.45 127) (xy 54.61 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b173285-b63a-4094-8953-b149b760f88d")
 	)
 	(wire
 		(pts
@@ -6840,6 +6910,16 @@
 			(type default)
 		)
 		(uuid "584a6a45-f343-4c29-b5f1-04eb67bd418a")
+	)
+	(wire
+		(pts
+			(xy 25.4 124.46) (xy 34.29 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59c9eb4f-261d-4f04-ba39-ba0ae18b03d1")
 	)
 	(wire
 		(pts
@@ -7060,6 +7140,16 @@
 			(type default)
 		)
 		(uuid "738cae6c-36c5-49b0-bcc7-66fa393c274f")
+	)
+	(wire
+		(pts
+			(xy 107.95 163.83) (xy 118.11 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74c9491a-aeda-4518-8a4b-1a604fbe06a8")
 	)
 	(wire
 		(pts
@@ -7423,6 +7513,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 158.75) (xy 118.11 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a69e8df8-ad79-4f71-a706-8412cc8bd408")
+	)
+	(wire
+		(pts
 			(xy 39.37 149.86) (xy 39.37 152.4)
 		)
 		(stroke
@@ -7460,6 +7560,16 @@
 			(type default)
 		)
 		(uuid "aaa27940-e251-4ea0-89f7-88452c277e2e")
+	)
+	(wire
+		(pts
+			(xy 168.91 130.81) (xy 176.53 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad5f1b18-4a91-4a67-afda-be1d92a4ef7c")
 	)
 	(wire
 		(pts
@@ -7520,6 +7630,16 @@
 			(type default)
 		)
 		(uuid "b216784f-41fb-4217-a948-6847672da967")
+	)
+	(wire
+		(pts
+			(xy 44.45 106.68) (xy 54.61 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b358f5d6-fc7e-49ca-947e-bc8dab5add47")
 	)
 	(wire
 		(pts
@@ -7843,6 +7963,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 124.46) (xy 54.61 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d744e6e7-6ab8-46c4-8fca-e8558c74bbea")
+	)
+	(wire
+		(pts
 			(xy 262.89 153.67) (xy 250.19 153.67)
 		)
 		(stroke
@@ -8023,6 +8153,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 123.19) (xy 176.53 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fac47d60-d27b-4c55-90a6-d96c28e87da8")
+	)
+	(wire
+		(pts
 			(xy 115.57 171.45) (xy 118.11 171.45)
 		)
 		(stroke
@@ -8051,6 +8191,16 @@
 		)
 		(uuid "fc62f129-5b1a-4e84-b02e-496c3c342ecc")
 	)
+	(label "PTT_OUT"
+		(at 176.53 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0d570176-8c15-4137-b071-5e691197cd43")
+	)
 	(label "MISO"
 		(at 50.8 157.48 0)
 		(effects
@@ -8060,6 +8210,16 @@
 			(justify left bottom)
 		)
 		(uuid "1a4916ca-9b29-4da8-9dae-5e60c16e4909")
+	)
+	(label "MODE_VA"
+		(at 54.61 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "201664a4-e4ef-48c8-88d2-e2a155031966")
 	)
 	(label "DIO1"
 		(at 50.8 172.72 0)
@@ -8091,6 +8251,16 @@
 		)
 		(uuid "32e5d926-543d-4105-8c0c-f055228813dd")
 	)
+	(label "USB_D-"
+		(at 176.53 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3657adb1-93bf-4e0c-a760-147e4f1b6a81")
+	)
 	(label "SWCLK"
 		(at 83.82 130.81 0)
 		(effects
@@ -8121,6 +8291,26 @@
 		)
 		(uuid "5eb8d94f-4822-466f-8f1c-ac925afb01e6")
 	)
+	(label "MODE_M"
+		(at 54.61 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "61c1a028-d00c-4307-a869-3242c602f161")
+	)
+	(label "MODE_M"
+		(at 107.95 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65416116-76f2-4537-800b-91145479b82f")
+	)
 	(label "BUSY"
 		(at 82.55 152.4 180)
 		(effects
@@ -8140,6 +8330,16 @@
 			(justify right bottom)
 		)
 		(uuid "65ac88b5-c63f-4be4-81d5-06fc7ce49fb6")
+	)
+	(label "PTT_OUT"
+		(at 54.61 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6602b7ae-b12a-422c-a9e9-96f5aa3af44e")
 	)
 	(label "IN+"
 		(at 212.09 96.52 0)
@@ -8171,6 +8371,16 @@
 		)
 		(uuid "728d112f-4297-4a61-9c60-d6d2243a8587")
 	)
+	(label "MODE_PTT"
+		(at 107.95 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "72d6b299-9592-4989-9b4d-e0301c6ffc43")
+	)
 	(label "USB_D+"
 		(at 58.42 44.45 180)
 		(effects
@@ -8180,6 +8390,16 @@
 			(justify right bottom)
 		)
 		(uuid "789d8add-a6a3-44fa-b60b-5869bc27306f")
+	)
+	(label "MODE_VA"
+		(at 107.95 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8213b3ce-920d-4fe8-b0ab-88704d7bf89f")
 	)
 	(label "MOSI"
 		(at 111.76 143.51 0)
@@ -8191,6 +8411,16 @@
 		)
 		(uuid "8be598b5-f5bc-4f89-b248-e0f970096926")
 	)
+	(label "PTT_IN"
+		(at 25.4 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "912ecc3e-a661-4a6b-a31e-fadd645e7231")
+	)
 	(label "IN+"
 		(at 176.53 113.03 180)
 		(effects
@@ -8200,6 +8430,16 @@
 			(justify right bottom)
 		)
 		(uuid "91371fa8-aab3-4237-a80c-518d58490c19")
+	)
+	(label "USB_D+"
+		(at 176.53 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9213d6a4-2524-45d9-af48-cb53000502a4")
 	)
 	(label "VHI"
 		(at 115.57 40.64 0)
@@ -8230,6 +8470,16 @@
 			(justify right bottom)
 		)
 		(uuid "a706bb75-92f1-4219-9a74-39d0f0072682")
+	)
+	(label "MODE_C"
+		(at 107.95 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "acb506b7-8873-487c-8f4c-8ab2a7aa4fe5")
 	)
 	(label "SW"
 		(at 176.53 140.97 180)
@@ -8300,6 +8550,16 @@
 			(justify left bottom)
 		)
 		(uuid "c601c85c-7dc3-452d-ba7b-1d7a4017b122")
+	)
+	(label "MODE_PTT"
+		(at 54.61 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c6e468b8-26fd-417f-8445-0c2594cbea7f")
 	)
 	(label "SWDIO"
 		(at 176.53 135.89 180)
@@ -8380,6 +8640,26 @@
 			(justify left bottom)
 		)
 		(uuid "fa4872fd-9dec-4edc-a600-a2beff19395a")
+	)
+	(label "MODE_C"
+		(at 25.4 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd70cfeb-e88c-48b3-9411-c611b5b330a7")
+	)
+	(label "PTT_IN"
+		(at 176.53 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ff52e3ac-0871-4c64-8014-38b662a0d055")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -9286,7 +9566,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SP3T")
-		(at 27.94 118.11 0)
+		(at 39.37 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9297,7 +9577,7 @@
 		(fields_autoplaced yes)
 		(uuid "212dfd84-4ac3-4e11-b79a-3013a3e78a32")
 		(property "Reference" "SW1"
-			(at 27.94 109.22 0)
+			(at 39.37 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9307,7 +9587,7 @@
 			)
 		)
 		(property "Value" "SW_SP3T"
-			(at 27.94 111.76 0)
+			(at 39.37 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9317,7 +9597,7 @@
 			)
 		)
 		(property "Footprint" "Mini_Talkie:CK_SW_SP3T_OS103011MA7QP1C"
-			(at 12.065 113.665 0)
+			(at 23.495 120.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9328,7 +9608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 125.73 0)
+			(at 39.37 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9339,7 +9619,7 @@
 			)
 		)
 		(property "Description" "Switch, three position, single pole triple throw, 3 position switch, SP3T"
-			(at 27.94 118.11 0)
+			(at 39.37 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9350,7 +9630,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 27.94 118.11 0)
+			(at 39.37 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10507,7 +10787,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 38.1 96.52 0)
+		(at 39.37 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10518,7 +10798,7 @@
 		(fields_autoplaced yes)
 		(uuid "47d99797-6332-442a-b6f6-26c5aa40a362")
 		(property "Reference" "SW3"
-			(at 38.1 90.17 0)
+			(at 39.37 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10528,7 +10808,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 38.1 92.71 0)
+			(at 39.37 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10538,7 +10818,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_SPST_Omron_B3F-315x_Angled"
-			(at 38.1 96.52 0)
+			(at 39.37 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10549,7 +10829,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 96.52 0)
+			(at 39.37 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10560,7 +10840,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 38.1 96.52 0)
+			(at 39.37 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10571,7 +10851,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 38.1 96.52 0)
+			(at 39.37 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13362,10 +13642,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "89a95736-6e56-415b-9c73-768767dcf966")
+			(uuid "89a95736-6e56-415b-9c73-768767dcf967")
 		)
 		(pin "1"
-			(uuid "69acc27a-e9c9-47ca-ba39-0db723f98d95")
+			(uuid "69acc27a-e9c9-47ca-ba39-0db723f98d96")
 		)
 		(instances
 			(project "mini-talkie"
@@ -16233,10 +16513,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1bf3ed56-31d3-4a8d-b08b-766313d31320")
+			(uuid "1bf3ed56-31d3-4a8d-b08b-766313d31321")
 		)
 		(pin "2"
-			(uuid "15286859-25df-4f78-b965-b3abb0aab3dc")
+			(uuid "15286859-25df-4f78-b965-b3abb0aab3dd")
 		)
 		(instances
 			(project "mini-talkie"
