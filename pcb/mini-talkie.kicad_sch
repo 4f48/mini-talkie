@@ -9846,7 +9846,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "OS103011MA7QP1C"
 			(at 36.83 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10114,7 +10114,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "114993390"
 			(at 58.42 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -11145,7 +11145,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B3F-3152"
 			(at 36.83 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11270,7 +11270,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11824,7 +11824,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "PAM8302AASCR"
 			(at 236.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -12121,7 +12121,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MCP73831T-2ACI/OT"
 			(at 181.61 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -12742,7 +12742,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TOW-3050P-B-R "
 			(at 264.16 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -12833,7 +12833,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "OS102011MA1QN1"
 			(at 119.38 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -12927,7 +12927,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RT9080-33GJ5"
 			(at 130.81 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13775,7 +13775,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "STM32H503CBT6"
 			(at 143.51 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -14344,7 +14344,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8047bd25-ed93-4f2b-b39e-1906ab497d00")
+			(uuid "8047bd25-ed93-4f2b-b39e-1906ab497d01")
 		)
 		(instances
 			(project "mini-talkie"
@@ -14685,7 +14685,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2c53571a-9f0e-4fcc-965e-06eb5cf04ecc")
+			(uuid "2c53571a-9f0e-4fcc-965e-06eb5cf04ecd")
 		)
 		(instances
 			(project "mini-talkie"
@@ -16152,7 +16152,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16456,7 +16456,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8047bd25-ed93-4f2b-b39e-1906ab497d00")
+			(uuid "8047bd25-ed93-4f2b-b39e-1906ab497d02")
 		)
 		(instances
 			(project "mini-talkie"
@@ -17033,7 +17033,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2c53571a-9f0e-4fcc-965e-06eb5cf04ecc")
+			(uuid "2c53571a-9f0e-4fcc-965e-06eb5cf04ece")
 		)
 		(instances
 			(project "mini-talkie"
