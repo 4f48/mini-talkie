@@ -157,7 +157,7 @@
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.5,
         "min_track_width": 0.125,
         "min_via_annular_width": 0.1,
@@ -693,7 +693,7 @@
         "uuid": "e0e51278-f164-4a4d-a401-491fefefde79"
       }
     ],
-    "used_designators": "#PWR6,#PWR8,#PWR47-48,H1-4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

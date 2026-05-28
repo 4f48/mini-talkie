@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16052011-063932";"";
+"REFERENCE";"B3F-3152";"";
+"TraceParts.PartTitle";"Tactile Switch (6mm x 6mm) – B3F";"";
+"TraceParts.InstanceId";"10-16052011-063932DP4A061SO864HKIQWYHRKV9CH";"";
+"DESIGN";"Tactile Switch With ground terminal, Height 6.15 mm, Operating Force 1.47N";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"OMRON:10-16052011-063932";"";
