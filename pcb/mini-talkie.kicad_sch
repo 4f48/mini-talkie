@@ -7040,6 +7040,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 119.38) (xy 264.16 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ec65e64-dcdf-477e-a3a0-a36cd8808277")
+	)
+	(wire
+		(pts
 			(xy 262.89 140.97) (xy 265.43 140.97)
 		)
 		(stroke
@@ -7160,6 +7170,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 101.6) (xy 250.19 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63ec8317-6779-4eb3-aae1-b3326542564a")
+	)
+	(wire
+		(pts
 			(xy 224.79 140.97) (xy 237.49 140.97)
 		)
 		(stroke
@@ -7187,16 +7207,6 @@
 			(type default)
 		)
 		(uuid "6d9079da-826f-4853-81fa-99a9ca51e902")
-	)
-	(wire
-		(pts
-			(xy 246.38 101.6) (xy 248.92 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6db838cb-3bb7-4552-a33b-26da5eb99bda")
 	)
 	(wire
 		(pts
@@ -7277,16 +7287,6 @@
 			(type default)
 		)
 		(uuid "6fc560f7-0936-485b-b6be-38b1139b767a")
-	)
-	(wire
-		(pts
-			(xy 248.92 101.6) (xy 248.92 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71918a9c-3c37-4c21-96ad-318b2278d57b")
 	)
 	(wire
 		(pts
@@ -7417,16 +7417,6 @@
 			(type default)
 		)
 		(uuid "7e68b87c-30f2-409a-a8a4-34e7d3be17c1")
-	)
-	(wire
-		(pts
-			(xy 246.38 96.52) (xy 251.46 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83880044-b69f-4383-a903-747061f71691")
 	)
 	(wire
 		(pts
@@ -7920,6 +7910,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 96.52) (xy 250.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbb2f7c4-c7de-4a93-8d74-de96ac99672e")
+	)
+	(wire
+		(pts
 			(xy 43.18 129.54) (xy 48.26 129.54)
 		)
 		(stroke
@@ -8200,16 +8200,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 96.52) (xy 251.46 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd47dc9c-8e3f-44e5-9d1e-f5f2fc4ee22c")
-	)
-	(wire
-		(pts
 			(xy 264.16 20.32) (xy 264.16 22.86)
 		)
 		(stroke
@@ -8227,6 +8217,16 @@
 			(type default)
 		)
 		(uuid "e088ff4a-0d06-4c6d-8967-0b82a62601e9")
+	)
+	(wire
+		(pts
+			(xy 259.08 116.84) (xy 264.16 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fc71e7-455b-4bd8-bbbd-2c7801fcde10")
 	)
 	(wire
 		(pts
@@ -8408,6 +8408,16 @@
 		)
 		(uuid "0d570176-8c15-4137-b071-5e691197cd43")
 	)
+	(label "O-"
+		(at 250.19 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "11018802-bd35-4eb3-b8f6-b0921be7b6a8")
+	)
 	(label "MISO"
 		(at 43.18 132.08 0)
 		(effects
@@ -8487,6 +8497,16 @@
 			(justify left bottom)
 		)
 		(uuid "50229501-6fba-47fa-a91d-72a3c162ceaa")
+	)
+	(label "O+"
+		(at 250.19 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5176e30f-8ab9-4046-be75-d175a4c1186b")
 	)
 	(label "MOSI"
 		(at 43.18 134.62 0)
@@ -8618,6 +8638,16 @@
 		)
 		(uuid "8be598b5-f5bc-4f89-b248-e0f970096926")
 	)
+	(label "O-"
+		(at 259.08 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8fdfc104-25e9-4da4-9ef0-6e6095d62a7d")
+	)
 	(label "PTT_IN"
 		(at 22.86 83.82 0)
 		(effects
@@ -8697,6 +8727,16 @@
 			(justify right bottom)
 		)
 		(uuid "ae4702e0-3826-450d-9f8d-036c76e51d3e")
+	)
+	(label "O+"
+		(at 259.08 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2cd085b-0b9d-4ab9-a3c2-6a1acfe25e46")
 	)
 	(label "RST"
 		(at 111.76 146.05 0)
@@ -16796,7 +16836,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 251.46 109.22 270)
+		(at 269.24 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16807,7 +16847,7 @@
 		(fields_autoplaced yes)
 		(uuid "ef8ff8ec-3d1b-479b-9895-f20004a20a75")
 		(property "Reference" "J4"
-			(at 254 107.9499 90)
+			(at 271.78 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16818,7 +16858,7 @@
 			)
 		)
 		(property "Value" "SPEAKER"
-			(at 254 110.4899 90)
+			(at 271.78 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16829,7 +16869,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 251.46 109.22 0)
+			(at 269.24 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16840,7 +16880,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 109.22 0)
+			(at 269.24 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16851,7 +16891,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 251.46 109.22 0)
+			(at 269.24 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16862,7 +16902,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 251.46 109.22 90)
+			(at 269.24 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
