@@ -28,7 +28,7 @@ You can actually build a mini-talkie for yourself. All you need is the PCB, SMD 
 
 ![3D render of a green circuit board needed for assembly.](/images/bare_pcb.png)
 
-The printed circuit board has to be manufactured somewhere. I recommend [Aisler](https://aisler.net) or [JLCPCB](https://jlcpcb.com), but any similar services work. You can find the source files for the PCB in [/pcb](/mini-talkie/src/branch/main/pcb). Make sure to order the PCBA (assembly) service if you are not comfortable soldering smaller sized components.
+The printed circuit board has to be manufactured somewhere. I recommend [Aisler](https://aisler.net) or [JLCPCB](https://jlcpcb.com), but any similar services work. You can find the source files for the PCB in [/pcb](./pcb). Make sure to order the PCBA (assembly) service if you are not comfortable soldering smaller sized components.
 
 You also need some other components ordered. Check out the [Bill of Materials](/mini-talkie/src/branch/main/bom.csv) which includes links to help you order them easily.
 
