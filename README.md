@@ -28,9 +28,9 @@ You can actually build a mini-talkie for yourself. All you need is the PCB, SMD 
 
 ![3D render of a green circuit board needed for assembly.](/images/bare_pcb.png)
 
-The printed circuit board has to be manufactured somewhere. I recommend [Aisler](https://aisler.net) or [JLCPCB](https://jlcpcb.com), but any similar services work. You can find the source files for the PCB in [/src/branch/main/pcb](/pcb). Make sure to order the PCBA (assembly) service if you are not comfortable soldering smaller sized components.
+The printed circuit board has to be manufactured somewhere. I recommend [Aisler](https://aisler.net) or [JLCPCB](https://jlcpcb.com), but any similar services work. You can find the source files for the PCB in [/pcb](/mini-talkie/src/branch/main/pcb). Make sure to order the PCBA (assembly) service if you are not comfortable soldering smaller sized components.
 
-You also need some other components ordered. Check out the [Bill of Materials](/src/branch/main/bom.csv) which includes links to help you order them easily.
+You also need some other components ordered. Check out the [Bill of Materials](/mini-talkie/src/branch/main/bom.csv) which includes links to help you order them easily.
 
 ### 2. Printed parts
 
@@ -38,13 +38,13 @@ You also need some other components ordered. Check out the [Bill of Materials](/
 
 mini-talkie's enclosure is made from 2 parts. These have to be made on a 3D printer. If you don't have access to a 3D priner, explore services like [JLC3DP](https://jlc3dp.com) that print and ship the parts to you.
 
-You can find the source files and exported models in STL and STEP formats in [/3d](/src/branch/main/3d).
+You can find the source files and exported models in STL and STEP formats in [/3d](/mini-talkie/src/branch/main/3d).
 
 ### 3. Soldering
 
 ![The same printed circuit board as before, but with components such as resistors and capacitors soldered on the surface.](/images/assembled_pcb.png)
 
-A fine-tipped soldering iron and some flux is needed for this part. Refer to the PCB source files in [/pcb](/src/branch/main/pcb) as a reference for placing the correct parts.
+A fine-tipped soldering iron and some flux is needed for this part. Refer to the PCB source files in [/pcb](/mini-talkie/src/branch/main/pcb) as a reference for placing the correct parts.
 
 Skip this step if you ordered your PCBs assembled (PCBA).
 
@@ -52,7 +52,7 @@ In addition, you need to remove the included connectors from the speaker and bat
 
 ### 4. Programming
 
-You need a Raspberry Pi Zero (2) or a separate debugger. Connect it to the SWD port on the circuit board and load the firmware from [/firmware](/src//branch/main/firmware).
+You need a Raspberry Pi Zero (2) or a separate debugger. Connect it to the SWD port on the circuit board and load the firmware from [/firmware](/mini-talkie/src/branch/main/firmware).
 
 > TODO: Complete this part with instructions once the code is actually done.
 
