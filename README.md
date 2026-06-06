@@ -32,6 +32,41 @@ The printed circuit board has to be manufactured somewhere. I recommend [Aisler]
 
 You also need some other components ordered. Check out the [Bill of Materials](./bom.csv) which includes links to help you order them easily.
 
+| Component                          | MPN                | Reference                     | Qty | Link                                                                            |
+|------------------------------------|--------------------|-------------------------------|-----|---------------------------------------------------------------------------------|
+| 0603 2.2 µF capacitor              | CC0603KRX7R5BB225  | C1,C2                         | 2   | https://www.digikey.hu/short/4rjpq33n                                           |
+| 0603 100 nF capacitor              | CC0603KRX7R5BB104  | C3,C4,C5,C6,C7,C9,C14,C18,C19 | 9   | https://www.digikey.hu/short/dt7hb4qj                                           |
+| 0805 10 µF capacitor               | CL21A106KQFNNNG    | C8,C10,C11,C12,C13,C20        | 6   | https://www.digikey.hu/short/tvz058r0                                           |
+| 0603 1 µF capacitor                | CL10A105KQ8NNNC    | C15,C16                       | 2   | https://www.digikey.hu/short/z9n48j83                                           |
+| 0603 10 µF capacitor               | GRM188R60J106KE47D | C17                           | 1   | https://www.digikey.hu/short/4j9w29qw                                           |
+| Schottky diode                     | B0520WS-7-F        | D1                            | 1   | https://www.digikey.hu/short/ht5bt73v                                           |
+| 0805 orange LED                    | LTST-C170KFKT      | D2                            | 1   | https://www.digikey.hu/short/45p872b7                                           |
+| 0603 ferrite bead 600 Ω @100 MHz   | BLM18KG601SN1D     | FB1                           | 1   | https://www.digikey.hu/short/0mqd98np                                           |
+| SWD connector                      | BM03B-SRSS-TB      | J1                            | 1   | https://www.digikey.hu/short/5p581w55                                           |
+| USB-C receptacle                   | USB4085-GF-A       | J2                            | 1   | https://www.digikey.hu/short/b77q7dpn                                           |
+| battery connector                  | S2B-PH-K-S         | J3                            | 1   | https://www.digikey.hu/short/4j185jz8                                           |
+| speaker connector                  | S2B-PH-K-S         | J4                            | 1   | https://www.digikey.hu/short/4j185jz8                                           |
+| microphone                         | TOW-3050P-B-R      | MK1                           | 1   | https://www.digikey.hu/short/pvdf25rr                                           |
+| MOSFET                             | AO3401A            | Q1                            | 1   | https://www.digikey.hu/short/8rwf7289                                           |
+| 0603 10 kΩ resistor                | RC0603FR-0710KL    | R1,R4,R5,R6                   | 4   | https://www.digikey.hu/short/b31dpcpj                                           |
+| 0603 5.1 kΩ resistor               | RC0603FR-075K1L    | R2,R3,R7                      | 3   | https://www.digikey.hu/short/q0d4nh3t                                           |
+| 0805 1 kΩ resistor                 | ESR10EZPF1001      | R8                            | 1   | https://www.digikey.hu/short/5hnt9d3r                                           |
+| SP3T sliding right-angle switch    | OS103011MA7QP1C    | SW1                           | 1   | https://www.digikey.hu/short/jz8f2558                                           |
+| SPDT sliding right-angle switch    | OS102011MA1QN1     | SW2                           | 1   | https://www.digikey.hu/short/1v0t4jtn                                           |
+| SPST right-angle pushbutton switch | B3F-3152           | SW3                           | 1   | https://www.digikey.hu/short/0rj93f0h                                           |
+| microcontroller                    | STM32H503CBT6      | U1                            | 1   | https://www.digikey.hu/short/n7f3hf4p                                           |
+| LoRa chipset                       | 114993390          | U2                            | 1   | https://www.digikey.hu/short/prpdvndd                                           |
+| amplifier                          | PAM8302AASCR       | U3                            | 1   | https://www.digikey.hu/short/0pzv4hpb                                           |
+| battery charger                    | MCP73831T-2ACI/OT  | U4                            | 1   | https://www.digikey.hu/short/wfqbhvzq                                           |
+| 3.3V LDO voltage regulator         | RT9080-33GJ5       | U5                            | 1   | https://www.digikey.hu/short/2h9019td                                           |
+| speaker                            | 4227               | -                             | 1   | https://www.digikey.hu/short/59fcjjq4                                           |
+| antenna                            | GHX-325ASA3B       | -                             | 1   | https://www.digikey.hu/short/fqjjtd0b                                           |
+| antenna cable                      | 18568              | -                             | 1   | https://www.digikey.hu/short/jn7jd79m                                           |
+| battery                            | AKY0622            | -                             | 1   | https://www.tme.eu/hu/details/aky-lp883440/akkumulatorok/akyga-battery/aky0622/ |
+| 2-pin JST PH cable                 | 4714               | -                             | 1   | https://www.digikey.hu/short/8mm8t1d7                                           |
+
+Total cost of components: $38,82/unit (excl. taxes)
+
 ### 2. Printed parts
 
 ![The 3D printed parts needed for assembly seen alongside each other in a 3D render.](./images/3d_models.png)
