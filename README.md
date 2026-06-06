@@ -73,7 +73,7 @@ Total cost of components: $38,82/unit (excl. taxes)
 
 mini-talkie's enclosure is made from 2 parts. These have to be made on a 3D printer. If you don't have access to a 3D priner, explore services like [JLC3DP](https://jlc3dp.com) that print and ship the parts to you.
 
-You can find the source files and exported models in STL and STEP formats in [/3d](./3d).
+You can find the source files in [/3d](./3d) and exported models [/3d/exports](./3d/exports) for printing in STEP format.
 
 ### 3. Soldering
 
