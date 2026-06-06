@@ -99,3 +99,6 @@ You need a Raspberry Pi Zero (2) or a separate debugger. Connect it to the SWD p
 5. Place the board on the bottom enclosure so that the battery connector is facing down.
 6. Plug in the speaker to the board, and put the top enclosure on the bottom, then screw all the M2.5 screws into the top enclosure. Those 3 screws hold everything together, so make sure they are secure.
 7. Compete the build by installing your SMA antenna on the top.
+
+## Fallout Zine
+![Mini Talkie Fallout Zine page](./images/magazine.png)
